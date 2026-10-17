@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-labelledby="title desc">
+  <title id="title">Simple boat-building diagram</title>
+  <desc id="desc">A wide wooden hull with connected sides and bottom floats in water. Cargo rests low in the middle. Labels identify the cargo, joined hull, and water surface.</desc>
+  <rect width="680" height="320" rx="16" fill="#202734"/>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#f5f7fb">
+    <text x="24" y="33" font-size="20" font-weight="bold">A simple floating hull</text>
+    <text x="24" y="58" fill="#b9c7d8">Schematic: start wide, join the edges, add cargo gradually.</text>
+  </g>
+  <path d="M24 178 H656 V296 H24 Z" fill="#477bd7"/>
+  <path d="M24 178 H176 M504 178 H656" stroke="#9bc7ff" stroke-width="3"/>
+  <path d="M204 140 L243 235 H437 L476 140 Z" fill="#202734"/>
+  <path d="M180 140 L225 260 H455 L500 140 H476 L437 235 H243 L204 140 Z" fill="#bc864f" stroke="#0c111a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M225 248 H455 M192 154 L230 245 M488 154 L450 245" fill="none" stroke="#80572e" stroke-width="2"/>
+  <rect x="304" y="198" width="72" height="34" rx="4" fill="#e8ad53" stroke="#0c111a" stroke-width="4"/>
+  <path d="M340 116 V187 M334 180 L340 187 L346 180" fill="none" stroke="#9cddb6" stroke-width="2"/>
+  <path d="M111 252 H205 M198 247 L205 252 L198 257" fill="none" stroke="#f5f7fb" stroke-width="2"/>
+  <path d="M558 133 V168 M552 161 L558 168 L564 161" fill="none" stroke="#9bc7ff" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" font-size="15">
+    <text x="340" y="99" fill="#9cddb6" text-anchor="middle">Low, centered cargo</text>
+    <text x="32" y="238" fill="#f5f7fb">Joined sides</text>
+    <text x="32" y="258" fill="#f5f7fb">and bottom</text>
+    <text x="558" y="117" fill="#9bc7ff" text-anchor="middle">Water surface</text>
+  </g>
+</svg>
